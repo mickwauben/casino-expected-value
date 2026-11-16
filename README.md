@@ -109,8 +109,8 @@ The dealer always stops at 17 (basic casino rules), so it is interesting to anal
 
 ## Files
 
-- `school_project_original/`: the original school project (Tkinter casino, in Dutch) with `roulette.csv` and `kaarten.csv`
-- `simulations/`: the Python simulations used for the results above
-- `report.pdf`: the full write-up
+- `python Casino/casino Informatica eindwerk.py`: the original school project (Tkinter, written in Dutch), with `roulette.csv` and `kaarten.csv`
+- `python Casino/roulette_simulation.py`, `Slot_simulation.py`, `blackjack_simulation(...)`: the simulations used for the results above
+- `Python Casino report`: the full write-up
 
-The original school project was written in Dutch (variable names and comments); the analysis in `simulations/` is in English.
+The original school project was written in Dutch (variable names and comments); the analysis is in English.
