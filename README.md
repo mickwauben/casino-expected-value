@@ -105,7 +105,7 @@ The dealer always stops at 17 (basic casino rules), so it is interesting to anal
 | 19 | -0.201624 |
 | 20 | -0.352509 |
 
-![Blackjack: EV by stopping threshold](blackjack_threshold.png)
+![blackjack_threshold](blackjack_threshold.png)
 
 ## Files
 
