@@ -1,6 +1,5 @@
-[README.md](https://github.com/user-attachments/files/34938837/README.md)
-# casino-expected-value
-Expected value analysis and Monte Carlo simulation of an old school casino project (blackjack, slot machine, roulette)
+[README.md](https://github.com/user-attachments/files/34939368/README.md)
+
 # Casino expected value analysis
 
 Expected value (EV) and Monte Carlo analysis of a school casino project (roulette, slot machine, blackjack).
@@ -105,6 +104,8 @@ The dealer always stops at 17 (basic casino rules), so it is interesting to anal
 | 18 | -0.110604 |
 | 19 | -0.201624 |
 | 20 | -0.352509 |
+
+![Blackjack: EV by stopping threshold](blackjack_threshold.png)
 
 ## Files
 
