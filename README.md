@@ -1,5 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34939368/README.md)
-
+**Author:** Mick Wauben, BSc Econometrics & Operations Research, Maastricht University
+**Original school project:** co-written with a classmate (group of two). The analysis, simulations and the slot machine correction are my own work.
+**Date:** November 2026
 # Casino expected value analysis
 
 Expected value (EV) and Monte Carlo analysis of a school casino project (roulette, slot machine, blackjack).
